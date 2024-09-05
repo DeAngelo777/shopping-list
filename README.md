@@ -9,3 +9,5 @@ This project was created to focus on working with the DOM, events, state, local 
 Project is deployed on Netlify and Github.
 
 https://deangelo777.github.io/shopping-list/
+or
+https://gleeful-truffle-2826b1.netlify.app/
